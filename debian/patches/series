@@ -12,3 +12,4 @@ CVE-2019-3862.patch
 CVE-2019-3863.patch
 Fixed-misapplied-patch-327.patch
 moved-MAX-size-declarations-330.patch
+CVE-2020-22218.patch

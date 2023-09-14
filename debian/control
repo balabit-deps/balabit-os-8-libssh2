@@ -1,7 +1,8 @@
 Source: libssh2
 Section: libs
 Priority: optional
-Maintainer: Mikhail Gusarov <dottedmag@debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Mikhail Gusarov <dottedmag@debian.org>
 Build-Depends: debhelper (>= 10), libgcrypt20-dev, zlib1g-dev, chrpath
 Standards-Version: 4.1.4
 Homepage: https://libssh2.org/
